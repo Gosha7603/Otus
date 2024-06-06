@@ -1,1 +1,0 @@
-nginx ansible_host=192.168.11.150 ansible_port=22 ansible_private_key=/home/vagrant/.ssh/authorized_keys
